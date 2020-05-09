@@ -1,1 +1,3 @@
 # canada-covid19-trend-analysis
+
+This project performs trend analysis for the COVID-19 pandemic in Canada. The novel dataset provided by JHU CSSE is used through this project. The SIR model is used to get a theoretical feel on the spread of virus depending on several factors. Afterwards, the exponential and logistic functions were fit to the actual data in order to analysis the type of trend the virus is following. The results suggested that the trend fits more into the logistic curve rather than exponential curve. Finally, a linear regression model is suggested and implemented which can be used to perform predictions for different types of cases. 
